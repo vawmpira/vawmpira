@@ -34,7 +34,7 @@ def  __social__(self):
  └─$
 ```
 
-<p align="center"><img src="https://count.getloli.com/get/@:wkbtt" alt=":wkbtt" /></p>
+<p align="center"><img src="https://count.getloli.com/get/@:Ayhuuu" alt=":wkbtt" /></p>
 
  
 
