@@ -20,17 +20,17 @@
 
 
 ```python
-┌──(wkbtt@root)-[~/]
-└─$ cat wkbtt.py
+┌──(vawmpira@root)-[~/]
+└─$ cat vawmpira.py
 
-class wkbtt:
+class vawmpira:
 
 def  __social__(self):
- self.gtb = "https://github.com/wkbtt"
- self.dsc = "wkbt" 
- self.tlg = "wkbtt"
+ self.gtb = "https://github.com/vawmpira"
+ self.dsc = "vawmpira" 
+ self.tlg = "vawmpira"
   
- ┌──(wkbtt@root)-[~/]
+ ┌──(vawmpira@root)-[~/]
  └─$
 ```
 
